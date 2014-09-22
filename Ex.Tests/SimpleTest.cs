@@ -13,7 +13,7 @@ namespace Ex.Tests
             var homePage = new HomePage();
             homePage.GoTo(Menu.Search);
         }
-
+        
         [Test]
         public void CanReadAppConfi()
         {
