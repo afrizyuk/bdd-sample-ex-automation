@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDDSampleEx.Automation", "BDDSampleEx.Automation\BDDSampleEx.Automation.csproj", "{683F59D0-3F09-44D6-A3A4-2D3E7EE43CEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.Tests", "Ex.Tests\Ex.Tests.csproj", "{14569C77-DB43-43E0-9FBB-5B00047A2F5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDDEx.Specs", "BDDEx.Specs\BDDEx.Specs.csproj", "{CE36B2D9-906A-4F70-849D-5DDD7FD81FC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{683F59D0-3F09-44D6-A3A4-2D3E7EE43CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{683F59D0-3F09-44D6-A3A4-2D3E7EE43CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{683F59D0-3F09-44D6-A3A4-2D3E7EE43CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{683F59D0-3F09-44D6-A3A4-2D3E7EE43CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14569C77-DB43-43E0-9FBB-5B00047A2F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14569C77-DB43-43E0-9FBB-5B00047A2F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14569C77-DB43-43E0-9FBB-5B00047A2F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14569C77-DB43-43E0-9FBB-5B00047A2F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE36B2D9-906A-4F70-849D-5DDD7FD81FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE36B2D9-906A-4F70-849D-5DDD7FD81FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE36B2D9-906A-4F70-849D-5DDD7FD81FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE36B2D9-906A-4F70-849D-5DDD7FD81FC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
