@@ -23,5 +23,7 @@ namespace BDDSampleEx.Automation.Pages
         {
             search_button.Click();
         }
+
+        //test commit
     }
 }
